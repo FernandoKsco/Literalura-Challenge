@@ -15,7 +15,7 @@ Este proyecto está diseñado para analizar textos literarios y proporcionar est
 
 ### Tecnologías Utilizadas
 
-- **Python**
+- **Java**
 - **NLTK (Natural Language Toolkit)**
 - **Matplotlib**
 - **WordCloud**
